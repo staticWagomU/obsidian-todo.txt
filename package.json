@@ -1,7 +1,7 @@
 {
-    "name": "obsidian-svelte-starter",
-    "version": "1.0.3",
-    "description": "A plugin development template for devs who want to use svelte in Obsidian.",
+    "name": "obsidian-todo-txt",
+    "version": "1.0.0",
+    "description": "Todo.txt plugin",
     "main": "main.js",
     "scripts": {
         "lint": "eslint . --ext .ts",
